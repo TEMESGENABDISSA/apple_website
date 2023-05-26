@@ -1,3 +1,3 @@
 # apple_website
 
-#THIS APPLE PROJECT  WITH HTML AND CSS
+#APPLE PROJECT  using  HTML AND CSS
