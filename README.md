@@ -7,10 +7,10 @@ Abdissa's astute utilization of HTML ensures the structural integrity of the sit
 CSS comes to life through his expert touch, as the website radiates a polished aesthetic, with precisely chosen fonts, colors, and animations that resonate with Apple's signature style. Through the skillful hands of Temesgen Abdissa, the Apple website becomes a digital masterpiece, exemplifying the harmonious union of code, creativity, and user experience.
 
 # https://temesgen-apple-website.netlify.app/
-![Apple 1](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/92a86353-f1d4-4431-baa3-b0b6fd61fd71)
-![apple2](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/957da369-705a-43b8-a6af-24f5aa4403f9)
-![Apple7](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/31ac3dfb-a640-4b9b-b6fd-44ca9ba9005c)
-![Apple 5](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/ad545121-3a6b-40c8-95a0-f4de39e5e7ef)
-![Apple 3](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/54f3b1fb-1dc3-404f-9af5-1f565371efc2)
-![Apple4NG](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/602ea8c5-d3eb-4176-aa21-11a42d0e30eb)
-![Apple6](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/f2d6312d-f567-49d1-a7be-4d99897c1873)
+![Apple 1](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/fa7743b1-9aba-4dd8-9fdf-ffbedee8b3ce)
+![aplee2 2](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/6adbbf1e-2116-40c0-9c9a-e0b2adea97de)
+![Apple 3](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/a55b0040-3211-469d-a504-c86ad3eae972)
+![Apple4NG](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/12d62260-0bd3-4d14-96f1-f2180113e408)
+![Apple 5](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/2d461764-b91a-46d1-a286-7b3b13b9a699)
+![Apple6](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/f7e8c176-4a35-4b1b-b8c7-7dc67222dbed)
+![Apple7](https://github.com/TEMESGENABDISSA/apple_website/assets/109625337/c003863c-28be-4032-908e-a91daf900fb8)
